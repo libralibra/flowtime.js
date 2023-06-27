@@ -1,3 +1,15 @@
+# This is a fork of the nice html5 presentation framework [**Flowtime.js**](https://github.com/marcolago/flowtime.js) with **EXTRA CAPABILITIES**
+
+# Extras:
+
+- add the title bar that shows the progress of the slides:
+  * Left and right sides show the previous and next slides' titles
+  * Respond to click event on the left and right sides
+  * The progress is displayed in the middle of the title bar (eg. 3/20)
+- add zoom.js support to zoom in to any element while ALT was pressed
+- add a progress bar at the bottom of the slides
+
+---------------------------------------------
 ![Flowtime.js](https://github.com/marcolago/flowtime.js/raw/master/assets/img/logo-black.png "Flowtime.js Logo")
 
 ## Flowtime.js is a framework for easily building HTML presentations or An Amazing Website.

@@ -1,3 +1,8 @@
+Copyright (c) 2023-Now Daniel Zhang
+
+An improved version of the original Flowtime.js doesn't violate the original LICENSE statement.
+This version has the same permission as the original one.
+
 Copyright (c) 2012–Now Marco Lago, http://marcolago.com
 
 Permission is hereby granted, free of charge, to any person

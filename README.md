@@ -9,7 +9,7 @@
 - add zoom.js support to zoom in to any element while ALT was pressed
 - add a progress bar at the bottom of the slides
 - support display of multiple images side by side, currently support 2/3/4 evenly spaced, and 3-column unevenly spaced (defined in titlebar.css)
-- more colours have been defined via html tag, eg. <red> <blue> <green> <yellow> <cyan> <purple> <orange> <gray> <black>
+- more colours have been defined via HTML tag, eg. &lt;red&gt; &lt;blue&gt; &lt;green&gt; &lt;yellow&gt; &lt;cyan&gt; &lt;purple&gt; &lt;orange&gt; &lt;gray&gt; &lt;black&gt;
 
 ---------------------------------------------
 ![Flowtime.js](https://github.com/marcolago/flowtime.js/raw/master/assets/img/logo-black.png "Flowtime.js Logo")

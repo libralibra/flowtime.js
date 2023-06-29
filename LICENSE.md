@@ -1,4 +1,4 @@
-Copyright (c) 2023-Now Daniel Zhang
+Copyright (c) 2023-Now, Daniel Zhang
 
 An improved version of the original Flowtime.js doesn't violate the original LICENSE statement.
 This version has the same permission as the original one.

@@ -6,6 +6,7 @@
   * Left and right sides show the previous and next slides' titles
   * Respond to click event on the left and right sides
   * The progress is displayed in the middle of the title bar (eg. 3/20)
+- add a horizontal line below the heading on each slide
 - add zoom.js support to zoom in to any element while ALT was pressed
 - add a progress bar at the bottom of the slides
 - support display of multiple images side by side, currently support 2/3/4 evenly spaced, and 3-column unevenly spaced (defined in titlebar.css)

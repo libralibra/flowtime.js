@@ -4,7 +4,7 @@
 
 - find a good way of converting slides to PDF
   * the default print to PDF only convert several slides, not all of them
-  * both ![decktape](https://github.com/astefanutti/decktape) and ![deck2pdf](https://github.com/melix/deck2pdf) said to be working, haven't tried any
+  * both [decktape](https://github.com/astefanutti/decktape) and [deck2pdf](https://github.com/melix/deck2pdf) said to be working, haven't tried any
 - more transition effects
 
 

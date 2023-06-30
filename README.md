@@ -1,5 +1,13 @@
 # This is a fork of the nice html5 presentation framework [**Flowtime.js**](https://github.com/marcolago/flowtime.js) with **EXTRA CAPABILITIES**
 
+# ToDos:
+
+- find a good way of converting slides to PDF
+  * the default print to PDF only convert several slides, not all of them
+  * both ![decktape](https://github.com/astefanutti/decktape) and ![deck2pdf](https://github.com/melix/deck2pdf) said to be working, haven't tried any
+- more transition effects
+
+
 # Extras:
 
 - add the title bar that shows the progress of the slides:

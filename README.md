@@ -20,8 +20,8 @@
 - modify list item styles and colours
 - support display of multiple images side by side, currently support 2/3/4 evenly spaced, and 3-column unevenly spaced (defined in titlebar.css)
 - more colours have been defined via HTML tag, eg. &lt;red&gt; &lt;blue&gt; &lt;green&gt; &lt;yellow&gt; &lt;cyan&gt; &lt;purple&gt; &lt;orange&gt; &lt;gray&gt; &lt;black&gt;
-  * ![colour definition](https://github.com/libralibra/flowtime.js/blob/master/img/1.PNG "color definition")
-  * ![result](https://github.com/libralibra/flowtime.js/blob/master/img/2.PNG "result")
+  * ![colour definition](https://github.com/libralibra/flowtime.js/blob/master/Demo/img/colours.PNG "color definition")
+  * ![result](https://github.com/libralibra/flowtime.js/blob/master/Demo/img/result.PNG "result")
 
 
 ** THE ORIGINAL FLOWTIME.JS README FILE IS ATTACHED BELOW THIS LINE **

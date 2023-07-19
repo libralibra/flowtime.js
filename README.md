@@ -23,6 +23,8 @@
   * ![colour definition](https://github.com/libralibra/flowtime.js/blob/master/img/1.PNG "color definition")
   * ![result](https://github.com/libralibra/flowtime.js/blob/master/img/2.PNG "result")
 
+
+** THE ORIGINAL FLOWTIME.JS README FILE IS ATTACHED BELOW THIS LINE **
 ---------------------------------------------
 ![Flowtime.js](https://github.com/marcolago/flowtime.js/raw/master/assets/img/logo-black.png "Flowtime.js Logo")
 

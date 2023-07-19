@@ -1,0 +1,91 @@
+/* for displaying title bar at the top of each slides with prev, next link 
+    Daniel, May 2023
+*/
+.titles {
+    text-align: justify;
+    padding: 0.1em;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.titles:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.title-prev {
+    width: 45%;
+    float: left;
+    cursor: pointer;
+}
+
+.title-progress {
+    width: 10%;
+    float: left;
+}
+
+.title-next {
+    text-align: right;
+    width: 40%;
+    float: right;
+    cursor: pointer;
+}
+
+/* image side by side, put image as child of div.column-# who is a child of div.row */
+.column-2 {
+    float: left;
+    width: 45%;
+    padding: 3px;
+}
+
+.column-3 {
+    float: left;
+    width: 32%;
+    padding: 3px;
+}
+
+.column-4 {
+    float: left;
+    width: 22%;
+    padding: 3px;
+}
+
+.column-3-left {
+    float: left;
+    width: 23%;
+    padding: 3px;
+}
+
+.column-3-right {
+    float: right;
+    width: 22%;
+    padding: 3px;
+}
+
+.column-3-mid {
+    float: left;
+    width: 53%;
+    padding: 3px;
+}
+
+/* clear floats after image containers */
+.row,
+.column-2,
+.column-3,
+.column-4,
+.column-3-left,
+.column-3-mid,
+.column-3-right {
+    box-sizing: border-box;
+}
+
+.row:after {
+    content: "";
+    clear: both;
+    display: table;
+}

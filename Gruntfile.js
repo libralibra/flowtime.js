@@ -11,8 +11,8 @@ module.exports = function(grunt) {
           {
             dest: '.tmp/concat/js/flowtime.concat.js',
             src: [
-              'js/brav1toolbox.js',
-              'js/flowtime.js'
+              'assets/js/brav1toolbox.js',
+              'assets/js/flowtime.js'
             ]
           }
         ]
@@ -26,7 +26,7 @@ module.exports = function(grunt) {
         
         files: [
           {
-            dest: 'js/flowtime.min.js',
+            dest: 'assets/js/flowtime.min.js',
             src: ['.tmp/concat/js/flowtime.concat.js']
           }
         ]
@@ -34,7 +34,7 @@ module.exports = function(grunt) {
     },
     watch: {
       css: {
-        files: 'css/**/*.css',
+        files: 'assets/css/**/*.css',
         tasks: ['autoprefixer']
       }
     },
@@ -45,8 +45,8 @@ module.exports = function(grunt) {
       multiple_files: {
         expand: true,
         flatten: false,
-        src: 'css/**/*  .css',
-        dest: 'css/'
+        src: 'assets/css/**/*  .css',
+        dest: 'assets/css/'
       }
     }
   });

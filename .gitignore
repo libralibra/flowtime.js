@@ -5,7 +5,6 @@ node_modules/
 _wip/
 flows/
 plugins/
-demo
 demo-candy
 demo-skyline
 js/brav1toolbox.min.js
